@@ -6,7 +6,7 @@ end
 
 # Define breakfast, lunch and dinner methods that return the meal choice passed into them with a default to your favorite.
 def breakfast(food="Frosted Flakes")
-  "Morning is the best time for #{food}"
+  r"Morning is the best time for #{food}"
 end
 
 def lunch(food="grilled cheese")
